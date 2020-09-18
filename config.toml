@@ -2,6 +2,7 @@
 baseURL = "http://examplesite.org"
 title = "Vector | Creative Agency"
 theme = "airspace-hugo"
+themesDir = "themes"
 # post pagination
 paginate = "4"
 # post excerpt
