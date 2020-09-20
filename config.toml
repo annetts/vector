@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "http://examplesite.org"
+baseURL = "vector-web.netlify.app"
 title = "Vector | Creative Agency"
 theme = "airspace-hugo"
 themesDir = "themes"
